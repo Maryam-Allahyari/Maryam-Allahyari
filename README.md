@@ -8,7 +8,8 @@ I then did a Master of Bioinformatics at the University of Guelph. My project co
 
 ### Current project
 **[Predicting cancer origin](https://github.com/Maryam-Allahyari/Cancer_Analysis)**: Can gene expression and mutations tell us where a metastatic tumour started? Uses data from 570 BC Cancer patients, with scikit-learn, XGBoost and SHAP, and a Docker + Nextflow pipeline.
-**[Right drug, right patient](https://github.com/Maryam-Allahyari/right-drug-right-patient): Can a trial reliably show which patients a cancer drug works for? Testing subgroup and biomarker methods on simulated oncology trials with a CDISC pipeline in R (admiral, tern, bonsaiforest).
+
+**[Right drug, right patient](https://github.com/Maryam-Allahyari/right-drug-right-patient)**: Can a trial reliably show which patients a cancer drug works for? Testing subgroup and biomarker methods on simulated oncology trials with a CDISC pipeline in R (admiral, tern, bonsaiforest).
 
 ### Tools
 Python · R · SQL (PostgreSQL) · Bash · Nextflow · Docker · Git · HPC/SLURM · Quarto
